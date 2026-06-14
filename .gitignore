@@ -1,0 +1,33 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Rider
+.idea/
+
+# Logs and databases
+*.log
+*.db
+*.db-shm
+*.db-wal
+
+# Local settings
+.claude/
+*.local.json
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish
+wwwroot/
+
+# OS files
+Thumbs.db
+.DS_Store
